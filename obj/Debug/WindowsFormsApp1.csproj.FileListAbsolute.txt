@@ -1,0 +1,14 @@
+D:\c#\题库系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\c#\题库系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\c#\题库系统\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddSpecialty.resources
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Specialty_Detail.resources
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCourse.resources
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAdd_SC.resources
