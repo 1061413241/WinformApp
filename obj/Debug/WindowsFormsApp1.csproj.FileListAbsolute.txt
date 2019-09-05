@@ -12,3 +12,4 @@ D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Specialty_Detail.resources
 D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCourse.resources
 D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAdd_SC.resources
+D:\c#\题库系统\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAdd_Judge.resources

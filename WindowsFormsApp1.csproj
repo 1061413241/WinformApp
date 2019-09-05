@@ -65,6 +65,12 @@
     <Compile Include="FormAddSpec.Designer.cs">
       <DependentUpon>FormAddSpec.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAdd_Judge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdd_Judge.Designer.cs">
+      <DependentUpon>FormAdd_Judge.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormAdd_SC.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormAddSpec.resx">
       <DependentUpon>FormAddSpec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdd_Judge.resx">
+      <DependentUpon>FormAdd_Judge.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormAdd_SC.resx">
       <DependentUpon>FormAdd_SC.cs</DependentUpon>
